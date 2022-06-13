@@ -1,4 +1,4 @@
-<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/EdgarY0/32694bf402b0f1ee0a110a08458c1834/raw/264e14db21af0b775320374f339ec3da7c7905ff/githubcard.svg"/>
+<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/EdgarY0/9493d87228cb11112c290548132cb1ea/raw/b60c82bf1d6b115850d900b87c243958b8cea9b8/githubcard.svg"/>
 
 ### Hi there, I' am Edgar 👋
 
