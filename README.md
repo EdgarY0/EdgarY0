@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **I like games like fortnite and minecraft**
+- ⚡ Fun fact **I like games like Fortnite and Minecraft**
 
 <br>
 
