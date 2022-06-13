@@ -1,6 +1,6 @@
 
-<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/EdgarY0/a21bf4570e2df21382e3d77b0d5c91d5/raw/ef363d7a9cfd61148e9d18ab0e8262ca2d2c690b/githubcard.svg"/>
-<h1 align="left">Hi there, I' am Edgar 👋</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdgarY0/a21bf4570e2df21382e3d77b0d5c91d5/raw/ef363d7a9cfd61148e9d18ab0e8262ca2d2c690b/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Edgar</h1>
 
 - 🔥 Junior Development
 
