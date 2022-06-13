@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdgarY0/9493d87228cb11112c290548132cb1ea/raw/b60c82bf1d6b115850d900b87c243958b8cea9b8/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdgarY0/a21bf4570e2df21382e3d77b0d5c91d5/raw/ef363d7a9cfd61148e9d18ab0e8262ca2d2c690b/githubcard.svg"/>
 
 ### Hi there, I' am Edgar 👋
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **I like games like Fortnite and Minecraft**
+- ⚡ Fun fact **I like to play Fortnite and Minecraft**
 
 <br>
 
