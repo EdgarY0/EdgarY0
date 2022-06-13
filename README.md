@@ -3,7 +3,6 @@
 
 ## Hi there, I' am Edgar 👋
 
-<br>
 
 - 🔥 Junior Development
 
