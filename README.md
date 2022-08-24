@@ -31,7 +31,7 @@
 ## 👀 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/EdgarSo73219614" target="_blank">
+<a href="https://twitter.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-EdgarY0-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.instagram.com/edgaar.png/" target="_blank">
