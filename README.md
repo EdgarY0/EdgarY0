@@ -22,8 +22,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdgarY0&show_icons=true&theme=vision-friendly-dark" alt="Edgar's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarY0&layout=compact&theme=vision-friendly-dark" alt="Edgar's most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=EdgarY0&show_icons=true&theme=vision-friendly-dark" alt="Edgar's stats"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarY0&layout=compact&theme=vision-friendly-dark" alt="Edgar's most languages"/>
 </p>
 
 <br>
