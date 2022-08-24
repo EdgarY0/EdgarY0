@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdgarY0/b2ec24ffe7bcbdd3697da8ebd323192e/raw/0974a9935021328b9daeb93e32e0c996898bb03c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Edgar</h1>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/EdgarY0/b2ec24ffe7bcbdd3697da8ebd323192e/raw/0974a9935021328b9daeb93e32e0c996898bb03c/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Edgar</h1>
 
 - 🔥 Junior Development
 
