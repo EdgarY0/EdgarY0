@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at [TECHERS](https://www.techers.com.br/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and JavaScript**
 
-- ⚡ Fun fact **I like to play Fortnite and Minecraft**
+- ⚡ Fun fact **I like to play Valorant, Fortnite and Minecraft**
 
 <br>
 
