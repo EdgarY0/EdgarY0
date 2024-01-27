@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and JavaScript**
 
-- ⚡ Fun fact **I like to play Valorant, Fortnite and Minecraft**
+- ⚡ Fun fact **I like to play Valorant and study**
 
 <br>
 
